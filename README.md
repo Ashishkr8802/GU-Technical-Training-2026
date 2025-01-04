@@ -1,4 +1,4 @@
-#Name = Ashish Kumar
+Name = Ashish Kumar
 Admission number = 22SCSE1011288
 Section = 14
 leetcode id = https://leetcode.com/u/ashishkr8802/
